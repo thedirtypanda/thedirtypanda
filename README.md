@@ -13,8 +13,6 @@ I’m a creative developer who loves to mix code, craft, and fun vibes.
 ![Symfony](https://img.shields.io/badge/Symfony-Experienced-black?logo=symfony)
 ![React](https://img.shields.io/badge/React-Experienced-blue?logo=react)
 ![VueJS](https://img.shields.io/badge/VueJS-Certified-green?logo=vue.js)
-![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-success?logo=check)
-![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?logo=code)
 ![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-green?logo=php)
 
@@ -26,6 +24,11 @@ I’m a creative developer who loves to mix code, craft, and fun vibes.
 - **Testing:** PHPUnit, Jest
 - **Practices:** TDD (Test-Driven Development), DDD (Domain-Driven Design)
 - **Certification:** VueJS Certified Developer
+
+🧠 Software Philosophy:
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- Clean Architecture & SOLID Principles
 
 ## 🌟 Open Source Contributions
 

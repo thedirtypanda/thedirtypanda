@@ -1,7 +1,9 @@
 # 👋 Hi, I'm thedirtypanda!
-
-Welcome to my GitHub profile!  
-I’m a creative developer who loves to mix code, craft, and fun vibes.
+### 🧠 About Me
+- 💻 10+ years of experience as a full-stack software developer  
+- 🧩 Passionate about Domain-Driven Design, Test-Driven Development & Clean Architecture  
+- 🦀 Working with Rust, Go, TypeScript & React  
+- 🧵 Combining technical precision with creative craftsmanship
 
 ## 🏷️ Badges
 

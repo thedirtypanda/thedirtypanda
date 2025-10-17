@@ -27,7 +27,7 @@
 - **Practices:** TDD (Test-Driven Development), DDD (Domain-Driven Design)
 - **Certification:** VueJS Certified Developer
 
-🧠 Software Philosophy:
+## 🧠 Software Philosophy:
 - Domain-Driven Design (DDD)
 - Test-Driven Development (TDD)
 - Clean Architecture & SOLID Principles

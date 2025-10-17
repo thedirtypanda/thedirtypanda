@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm thedirtypanda!
 
-<!--
-**thedirtypanda/thedirtypanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a creative developer who loves to mix code, craft, and fun vibes.
 
-Here are some ideas to get you started:
+## 🏷️ Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-blue?logo=typescript)
+![Rust](https://img.shields.io/badge/Rust-Enthusiast-orange?logo=rust)
+![Go](https://img.shields.io/badge/Go-Enthusiast-blue?logo=go)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
+![Symfony](https://img.shields.io/badge/Symfony-Experienced-black?logo=symfony)
+![React](https://img.shields.io/badge/React-Experienced-blue?logo=react)
+![VueJS](https://img.shields.io/badge/VueJS-Certified-green?logo=vue.js)
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-success?logo=check)
+![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?logo=code)
+![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-green?logo=php)
+
+## 💻 Tech Stack
+
+- **Languages:** PHP, TypeScript, Rust, Go
+- **Frameworks:** Laravel, Symfony, React, VueJS
+- **Tools:** Git, Docker
+- **Testing:** PHPUnit, Jest
+- **Practices:** TDD (Test-Driven Development), DDD (Domain-Driven Design)
+- **Certification:** VueJS Certified Developer
+
+## 🌟 Open Source Contributions
+
+I'm proud to have contributed to **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**, helping build awesome features and grow as a developer in the open source community.
+
+## 🗣️ Spoken Languages
+
+- **German** (Mothertongue)
+- **English**
+- **French** (Basic)
+
+## 🧶 Hobbies
+
+When I’m not coding, you’ll find me:
+- Tailoring custom clothes
+- Knitting cozy designs
+- Bringing creativity from my crafts into my code
+
+## 🚀 What I’m Up To
+
+- Building web apps with modern frameworks
+- Experimenting with Rust & Go in my free time
+- Exploring open source & community projects
+
+## 🎨 Fun Fact
+
+I believe code is like fabric—stitching together ideas, patterns, and solutions!
+
+---
+
+> 🐼 Always coding, always crafting, always having fun!

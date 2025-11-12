@@ -2,7 +2,7 @@
 ### 🧠 About Me
 - 💻 10+ years of experience as a full-stack software developer  
 - 🧩 Passionate about Domain-Driven Design, Test-Driven Development & Clean Architecture  
-- 🦀 Working with Rust, Go, TypeScript & React  
+- 🦀 Working with Rust, Python, TypeScript & React  
 - 🧵 Combining technical precision with creative craftsmanship
 
 ## 🏷️ Badges
@@ -10,7 +10,6 @@
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-blue?logo=typescript)
 ![Rust](https://img.shields.io/badge/Rust-Enthusiast-orange?logo=rust)
-![Go](https://img.shields.io/badge/Go-Enthusiast-blue?logo=go)
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
 ![Symfony](https://img.shields.io/badge/Symfony-Experienced-black?logo=symfony)
 ![React](https://img.shields.io/badge/React-Experienced-blue?logo=react)
@@ -20,8 +19,8 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** PHP, TypeScript, Rust, Go
-- **Frameworks:** Laravel, Symfony, React, VueJS
+- **Languages:** PHP, TypeScript, Rust, Python
+- **Frameworks:** Laravel, Symfony,Yii, React, VueJS
 - **Tools:** Git, Docker
 - **Testing:** PHPUnit, Jest
 - **Practices:** TDD (Test-Driven Development), DDD (Domain-Driven Design)

@@ -2,14 +2,13 @@
 ### 🧠 About Me
 - 💻 10+ years of experience as a full-stack software developer  
 - 🧩 Passionate about Domain-Driven Design, Test-Driven Development & Clean Architecture  
-- 🦀 Working with Rust, Python, TypeScript & React  
+- 🦀 Working with PHP, Python, TypeScript & React  
 - 🧵 Combining technical precision with creative craftsmanship
 
 ## 🏷️ Badges
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-blue?logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-Enthusiast-orange?logo=rust)
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
 ![Symfony](https://img.shields.io/badge/Symfony-Experienced-black?logo=symfony)
 ![React](https://img.shields.io/badge/React-Experienced-blue?logo=react)
@@ -19,7 +18,7 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** PHP, TypeScript, Rust, Python
+- **Languages:** PHP, TypeScript, Python
 - **Frameworks:** Laravel, Symfony,Yii, React, VueJS
 - **Tools:** Git, Docker
 - **Testing:** PHPUnit, Jest
@@ -35,11 +34,10 @@
 
 I'm proud to have contributed to **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**, helping build awesome features and grow as a developer in the open source community.
 
-## 🗣️ Spoken Languages
-
-- **German** (Mothertongue)
-- **English**
-- **French** (Basic)
+## 🗣️🌍 Spoken Languages
+- <img src="https://flagcdn.com/w20/de.png" width="20"/> **German** – native  
+- <img src="https://flagcdn.com/w20/gb.png" width="20"/> **English** – fluent  
+- <img src="https://flagcdn.com/w20/fr.png" width="20"/> **French** – basic
 
 ## 🧶 Hobbies
 
@@ -51,7 +49,7 @@ When I’m not coding, you’ll find me:
 ## 🚀 What I’m Up To
 
 - Building web apps with modern frameworks
-- Experimenting with Rust & Go in my free time
+- Experimenting with Python in my free time
 - Exploring open source & community projects
 
 ## 🎨 Fun Fact

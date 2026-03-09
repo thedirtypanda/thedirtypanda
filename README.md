@@ -1,61 +1,50 @@
-# 👋 Hi, I'm thedirtypanda!
-### 🧠 About Me
-- 💻 10+ years of experience as a full-stack software developer  
-- 🧩 Passionate about Domain-Driven Design, Test-Driven Development & Clean Architecture  
-- 🦀 Working with PHP, Python, TypeScript & React  
-- 🧵 Combining technical precision with creative craftsmanship
+# 👋 Hi, I'm Jessica (thedirtypanda)
 
-## 🏷️ Badges
+Full-Stack Software Developer with a focus on maintainable web applications and software architecture.
 
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue?logo=php)
-![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-blue?logo=typescript)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
-![Symfony](https://img.shields.io/badge/Symfony-Experienced-black?logo=symfony)
-![React](https://img.shields.io/badge/React-Experienced-blue?logo=react)
-![VueJS](https://img.shields.io/badge/VueJS-Certified-green?logo=vue.js)
-![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-green?logo=php)
-
-## 💻 Tech Stack
-
-- **Languages:** PHP, TypeScript, Python
-- **Frameworks:** Laravel, Symfony,Yii, React, VueJS
-- **Tools:** Git, Docker
-- **Testing:** PHPUnit, Jest
-- **Practices:** TDD (Test-Driven Development), DDD (Domain-Driven Design)
-- **Certification:** VueJS Certified Developer
-
-## 🧠 Software Philosophy:
-- Domain-Driven Design (DDD)
-- Test-Driven Development (TDD)
-- Clean Architecture & SOLID Principles
-
-## 🌟 Open Source Contributions
-
-I'm proud to have contributed to **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**, helping build awesome features and grow as a developer in the open source community.
-
-## 🗣️🌍 Spoken Languages
-- <img src="https://flagcdn.com/w20/de.png" width="20"/> **German** – native  
-- <img src="https://flagcdn.com/w20/gb.png" width="20"/> **English** – fluent  
-- <img src="https://flagcdn.com/w20/fr.png" width="20"/> **French** – basic
-
-## 🧶 Hobbies
-
-When I’m not coding, you’ll find me:
-- Tailoring custom clothes
-- Knitting cozy designs
-- Bringing creativity from my crafts into my code
-
-## 🚀 What I’m Up To
-
-- Building web apps with modern frameworks
-- Experimenting with Python in my free time
-- Exploring open source & community projects
-
-## 🎨 Fun Fact
-
-I believe code is like fabric—stitching together ideas, patterns, and solutions!
+Former core contributor to the LimeSurvey open-source platform  
+Top 10 all-time contributors
 
 ---
 
-> 🐼 Always coding, always crafting, always having fun!
+## 🧠 About Me
+
+- 10+ years of experience building web applications
+- passionate about Domain-Driven Design, Test-Driven Development & Clean Architecture
+- enjoy working on large codebases and improving long-term maintainability
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+PHP · TypeScript · Go (learning) · Ruby (learning) · Python (learning) · HTML · CSS/SCSS
+
+**Frameworks**
+
+Laravel · Symfony · Yii · React · Vue · Angular · Ruby on Rails · FastApi
+
+**Tools**
+
+Docker · Git · CI/CD
+
+**Testing**
+
+PHPUnit · Jest · Mocha · Chai · Vitest · Cypress 
+
+---
+
+## 🌟 Open Source
+
+I contributed to the development of the widely used  
+[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) open-source survey platform, working on features, bug fixes and improvements to the existing codebase.
+
+---
+
+## 🧵 Beyond Coding
+
+Outside of software development I enjoy creative craftsmanship like tailoring and knitting.
+
+I like the parallels between software design and crafting:  
+both require structure, precision and creativity.
